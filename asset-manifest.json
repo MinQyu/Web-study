@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Web-study/static/js/main.16b941b2.js",
-    "index.html": "/Web-study/index.html",
-    "main.16b941b2.js.map": "/Web-study/static/js/main.16b941b2.js.map"
+    "main.js": "/Web-study/React/my-app/static/js/main.16b941b2.js",
+    "index.html": "/Web-study/React/my-app/index.html",
+    "main.16b941b2.js.map": "/Web-study/React/my-app/static/js/main.16b941b2.js.map"
   },
   "entrypoints": [
     "static/js/main.16b941b2.js"
